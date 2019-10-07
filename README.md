@@ -1,0 +1,2 @@
+# quextrailer
+Configuration for QuexTrailer
